@@ -4,7 +4,8 @@
   "description": "The hidden message in image app for Desktops using Electron.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node-sass app/main.scss app/main.css &&  electron ."
   },
   "repository": {
     "type": "git",
@@ -23,5 +24,9 @@
   "bugs": {
     "url": "https://github.com/unl0v3d-0xS3c/StenoGraphy/issues"
   },
-  "homepage": "https://github.com/unl0v3d-0xS3c/StenoGraphy#readme"
+  "homepage": "https://github.com/unl0v3d-0xS3c/StenoGraphy#readme",
+  "dependencies": {
+    "electron": "^1.8.4",
+    "node-sass": "^4.8.3"
+  }
 }
