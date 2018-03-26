@@ -1,0 +1,27 @@
+{
+  "name": "stenography",
+  "version": "0.0.1",
+  "description": "The hidden message in image app for Desktops using Electron.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unl0v3d-0xS3c/StenoGraphy.git"
+  },
+  "keywords": [
+    "electron",
+    "mac",
+    "windows",
+    "linux",
+    "node",
+    "web"
+  ],
+  "author": "Misha Marinenko",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/unl0v3d-0xS3c/StenoGraphy/issues"
+  },
+  "homepage": "https://github.com/unl0v3d-0xS3c/StenoGraphy#readme"
+}
