@@ -14,7 +14,7 @@ function createWindow() {
     backgroundColor: "#ffffff",
     frame: false,
     titleBarStyle: "hidden",
-    icon: "icon.jpg",
+    icon: "icon.png",
     title: "StenoGraphy",
     transparent: true,
     scrollBounce: true
